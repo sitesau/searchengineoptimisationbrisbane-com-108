@@ -1,0 +1,22 @@
+{
+  "wheel_id": 615,
+  "structure": "umbrella",
+  "slug": "searchengineoptimisationbrisbane-com-108",
+  "project": "seo-services-brisbane-checklist-b732a4231b55e66dfb686be3c4950fe",
+  "parent_t1_ref": "searchengineoptimisationbrisbane-com-153",
+  "node_role": "feeder",
+  "money_target": "searchengineoptimisationbrisbane.com.au",
+  "primary_kw": "seo services brisbane checklist",
+  "intended_url": "https://sites-e470-2.web.app/seo-services-brisbane-checklist-b732a4231b55e66dfb686be3c4950fe/",
+  "tier": "T2",
+  "writeback_nonce": "721ceab3dea6732d",
+  "links": [
+    {
+      "target_url": "http://seo-services-brisbane-suburb-guide-67e1dae7d8be3f5482d81fa3fc33.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "a guide to seo services brisbane suburb guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
